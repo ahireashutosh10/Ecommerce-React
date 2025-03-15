@@ -6,7 +6,7 @@ const Background = () => {
   return (
     
       <div className={back}>
-              
+             <h1>Hello Bye </h1> 
       </div>
     
   )

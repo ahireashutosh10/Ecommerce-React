@@ -1,0 +1,16 @@
+.hero {
+    height: 100vh; /* Full viewport height */
+    background-image: url('../assets/about-usnotint.jpg'); /* Replace with your image URL */
+    background-size: cover; /* Ensures the image covers the entire container */
+    background-position: center; /* Centers the image */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  
+  }
+
+ .para{
+    color: black;
+     
+ }

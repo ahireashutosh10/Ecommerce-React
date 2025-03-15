@@ -7,6 +7,7 @@ const Background = () => {
     
       <div className={back}>
              <h1>Hello Bye </h1> 
+             <h2>Update second </h2>
       </div>
     
   )
